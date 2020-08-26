@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="Resources/com.fasterxml.jackson.core.jar"/>
+	<classpathentry kind="lib" path="Resources/commons-codec-1.14.jar"/>
+	<classpathentry kind="lib" path="Resources/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="Resources/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="Resources/google-api-client-1.30.4.jar"/>
+	<classpathentry kind="lib" path="Resources/google-api-services-drive-v3-rev110-1.23.0.jar"/>
+	<classpathentry kind="lib" path="Resources/google-http-client-gson-1.36.0.jar"/>
+	<classpathentry kind="lib" path="Resources/google-http-client-jackson2-1.30.1.jar"/>
+	<classpathentry kind="lib" path="Resources/google-http-client-jackson2-1.36.0.jar"/>
+	<classpathentry kind="lib" path="Resources/google-http-client-protobuf-1.36.0.jar"/>
+	<classpathentry kind="lib" path="Resources/google-oauth-client-1.31.0.jar"/>
+	<classpathentry kind="lib" path="Resources/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="Resources/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="Resources/j2objc-annotations-1.1-sources.jar"/>
+	<classpathentry kind="lib" path="Resources/google-oauth-client-java6-1.31.0.jar"/>
+	<classpathentry kind="lib" path="Resources/jackson-core-2.9.9-sources.jar"/>
+	<classpathentry kind="lib" path="Resources/jackson-core-2.9.9.jar"/>
+	<classpathentry kind="lib" path="Resources/jetty-server-9.4.31.v20200723.jar"/>
+	<classpathentry kind="lib" path="Resources/jetty-util-9.4.31.v20200723.jar"/>
+	<classpathentry kind="lib" path="Resources/json-simple-1.1.1.jar"/>
+	<classpathentry kind="lib" path="Resources/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="Resources/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="Resources/slf4j-simple-1.7.30.jar"/>
+	<classpathentry kind="lib" path="Resources/google-api-client-json-1.2.3-alpha.jar"/>
+	<classpathentry kind="lib" path="Resources/google-oauth-client-jetty-1.31.0.jar"/>
+	<classpathentry kind="lib" path="Resources/google-api-client-java6-1.30.2.jar"/>
+	<classpathentry kind="lib" path="Resources/google-http-client-1.30.1.jar"/>
+	<classpathentry kind="lib" path="Resources/google-api-client-java6-1.30.10.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
