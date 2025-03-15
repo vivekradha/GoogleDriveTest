@@ -35,7 +35,4 @@
 	<classpathentry kind="lib" path="Resources/google-http-client-1.30.1.jar"/>
 	<classpathentry kind="lib" path="Resources/google-api-client-java6-1.30.10.jar"/>
 	<classpathentry kind="output" path="bin"/>
-        <classpathentry kind="output" path="Sanboxchanges"/>
-        <classpathentry kind="output" path="Sanboxchanges_2"/>
-        <classpathentry kind="output" path="Sanboxchanges_3"/>
 </classpath>
